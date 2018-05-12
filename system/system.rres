@@ -1,0 +1,9 @@
+system[type]
+nocore
+xradix[send]
+xradix[core]
+core[replixos]
+xradix[bootcore]
+core[doboot]
+xradix[bios]shutdown
+xradix[os]focus
