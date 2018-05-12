@@ -28,5 +28,6 @@ slider[7 96 212]
 sliderback[230 230 230]
 ]end
 
+theme[doapply]
 xradix[theme]
 theme[end]
