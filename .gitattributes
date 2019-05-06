@@ -1,3 +1,4 @@
 *.class linguist-language=Swift
+*.php linguist-language=PHP
 *.res linguist-language=Objective-C
 *.fx linguist-language=c
