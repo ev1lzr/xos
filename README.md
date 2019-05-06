@@ -1,4 +1,4 @@
-# NEUI | Developer ROM
+# NEUI | Open Source License-Free ROM
 NEUI - Flex customizable open source OS
 
-Developer ROM: 10.11 - 06.05.19
+OSLF ROM: 5.1 - 09.12.16 (Outdated, not supported)
