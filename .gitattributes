@@ -1,3 +1,3 @@
 *.res linguist-language=C
 *.fx linguist-language=CSS
-*.dev linguist-language=Objective-C
+*.cr linguist-language=Objective-C
