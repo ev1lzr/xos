@@ -1,2 +1,2 @@
-*.res linguist-language=C
-*.fx linguist-language=CSS
+*.res linguist-language=Objective-C
+*.fx linguist-language=c
