@@ -22,3 +22,7 @@ applyForResourceManager.developerROM.useNativeMethod(neui.addonFlowerClass.syste
 applyForResourceManager.developerROM.useNativeMethod(neui.addonFlowerClass.system.commands.applyFocusedWindow)
 applyForResourceManager.developerROM.useNativeMethod(neui.addonFlowerClass.system.commands.applyFocusedWindowRequest)
 applyForResourceManager.developerROM.useNativeMethod(neui.addonFlowerClass.system.commands.addonFlowerClass.coreCommand)
+applyForResourceManager.developerROM.useNativeMethod(neui.addonFlowerClass.system.security.fp.new)
+applyForResourceManager.developerROM.useNativeMethod(neui.addonFlowerClass.system.security.fp.check)
+applyForResourceManager.developerROM.useNativeMethod(neui.addonFlowerClass.system.security.face.new)
+applyForResourceManager.developerROM.useNativeMethod(neui.addonFlowerClass.system.security.face.check)
