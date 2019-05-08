@@ -10,5 +10,6 @@ t(theme)contentColor
 t(theme)windowColor
 t(theme)wallpaper
 t(theme)wallpaperMainEffectColor
+t(theme)animationModule
 
 sendLoop(loop.actionException);
