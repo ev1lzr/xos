@@ -1,7 +1,7 @@
 loop(actionException);
-loop(haltActivity = neui.windowActivity);
+loop(haltActivity = xos.windowActivity);
 
-m = neui.mainClass;
+m = xos.mainClass;
 m(neui.animationActivity)
 m(anim)slideUp
 m(anim)slideDown
