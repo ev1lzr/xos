@@ -1,4 +1,4 @@
-# NEUI | Global ROM
-NEUI - Flex customizable open source OS
+# xOS | Global ROM
+xOS - Flex customizable open source OS
 
-Global ROM: 7.1 - 06.01.18
+Global ROM: 12.0 - 02.02.2020
